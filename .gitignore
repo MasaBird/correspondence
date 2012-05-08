@@ -1,3 +1,22 @@
+<<<<<<< HEAD
 *.class
 *.pyc
 *.pyo
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> d221a81959204ea7da1011adbe035158106af0a8
